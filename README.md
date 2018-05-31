@@ -8,6 +8,4 @@ The program tracks an object that moves steadily across the field of view pretty
 
 After adding the padding I got from the mass of center, the program is actually very successful at tracking a moving object without being distracted by other moving objects. My program can also track multiple objects, and track them individually pretty well as long as their bounding boxes don’t cross line - otherwise the program would think they are the same object moving. 
 
-A sample video of how this program performs is linked [here].
-
 
